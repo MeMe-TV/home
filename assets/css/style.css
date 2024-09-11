@@ -1,0 +1,57 @@
+.h{font-family: Times New Roman; color:white; background-color:black;margin:2px;border-radius:5px 5px 0 0;
+border:solid;padding:50px;text-align:center;}
+
+.parrafo{
+ color:white; font-family:Times New Roman, Times, serif; margin-left:5px;
+}
+.Sigue{color:white;
+font-family: Times New Roman;}
+
+button{background-color:lightSkyBlue;
+border-radius:5px 5px 5px 5px;
+border: 2px solid white;
+display: inline-block;}
+
+a {
+ color: black;
+}
+
+.fondo{ padding: 5px; 
+border: solid 2px white;
+ background-color:black;
+ border-radius: 5px;
+ width:100%;
+ 
+}
+
+h4 {
+ font-family: Roboto;
+ color: white;
+ text-align: center;
+ font-size: 8px;
+}
+.canal-item,.col-6,.col-xs-6,.col-sm-6,.col-md-3,.col-lg-3{ border: solid 2px lightSkyblue; border-radius: 5px;
+ display: inline-block; 
+}
+
+.lm-canal,.lm-info-block,.gray-default{ display: block;
+padding: 2px;}
+
+.btn,.btn-sm,.btn-primary,.btn-block{ background-color: lightSkyblue;
+border: solid 2px white;
+border-radius: 10px;
+color: white;
+text-align: center;
+font-size: 10px;
+padding: 5px;
+display: flex;
+flex-direction:column;}
+
+.container-image{ display: inline-block;
+}
+
+img {
+ width: 50px; margin-left: 10px;
+}
+.por{text-align:center;color:white;font-family:Times New Roman;}
+.centro{ text-align: center;}
